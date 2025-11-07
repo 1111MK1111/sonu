@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"kilocode.apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbnYiOiJwcm9kdWN0aW9uIiwia2lsb1VzZXJJZCI6ImRkYjM5ODhhLWY1NjEtNDYzYS05MGY4LWMwMWM1YWU2Y2UxYSIsImFwaVRva2VuUGVwcGVyIjoiOWExNmVmOGQtNDc5YS00YTVhLTg0YjEtMjEzZTdjMTA3NGFlIiwidmVyc2lvbiI6MywiaWF0IjoxNzYyNDY4ODQ1LCJleHAiOjE5MjAyNTY4NDV9.EbK-w2GUVSU-tBLSGsxMsaCgY2h6ixFTVWlSN0mMDA4",
+		"kilocode.enabled": true,
+		"kilocode.provider": "trae",
+		"kilocode.environment": "production",
+		"kilocode.userId": "ddb3988a-f561-463a-90f8-c01c5ae6ce1a"
+	}
+}
